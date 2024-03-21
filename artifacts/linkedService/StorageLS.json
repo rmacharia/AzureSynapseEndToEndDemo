@@ -4,7 +4,7 @@
 		"parameters": {
 			"StorageName": {
 				"type": "string",
-				"defaultValue": "MyLakeName"
+				"defaultValue": "synapsee2elake"
 			}
 		},
 		"annotations": [],
